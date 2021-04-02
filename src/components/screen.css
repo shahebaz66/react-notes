@@ -1,0 +1,31 @@
+.screen{
+    background-color: blueviolet;
+    width: 100vw;
+    height: 100vh;
+    padding-top: 4%;
+    
+}
+.clear{
+    cursor: pointer;
+    margin-left: 10px;
+}
+.drop{
+    display: flex;
+    flex-direction: row;
+}
+.header-section{
+    padding-top:30px;
+    padding-bottom:20px;
+    position:relative;
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.site-logo{
+    font-size:24px;
+    padding-top:20px}
+
+.button{
+    margin-top:14px;
+    margin-right: 10%;
+}

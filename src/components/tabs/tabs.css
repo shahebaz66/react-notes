@@ -1,0 +1,12 @@
+.tab{
+    min-height: 10%;
+    height: auto;
+    width: 80%;
+    background-color: white;
+    border-radius: 10px;
+    min-height: 100px;
+    padding: 2%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: space-between;
+}
